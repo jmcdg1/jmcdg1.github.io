@@ -1,7 +1,7 @@
 <a href="http://es.linkedin.com/in/jmcarrillodegea/en" target="_top"><img src="/images/sm-linkedin-icon.png" width="50" height="50" alt="LinkedIn" title="LinkedIn" /></a>
 <a href="https://publons.com/author/437771/juan-manuel-carrillo-de-gea#profile" target="_top"><img src="/images/sm-publons-icon.png" width="50" height="50" alt="Publons" title="Publons" /></a>
 <a href="http://murcia.academia.edu/JuanManuelCarrillodeGea" target="_top"><img src="/images/sm-academia-icon.png" width="50" height="50" alt="Academia.edu" title="Academia.edu" /></a>
-<a href="https://dblp.uni-trier.de/pers/hd/c/Carrillo=de=Gea:Juan_Manuel" target="_top"><img src="/images/sm-dblp-icon.png" width="50" height="50" alt="dblp" title="dblp" /></a>
+<a href="https://dblp.uni-trier.de/pid/75/9500.html" target="_top"><img src="/images/sm-dblp-icon.png" width="50" height="50" alt="dblp" title="dblp" /></a>
 <a href="http://scholar.google.es/citations?user=AxesKosAAAAJ" target="_top"><img src="/images/sm-scholar-icon.png" width="50" height="50" alt="Google Scholar" title="Google Scholar" /></a>
 <a href="http://www.researchgate.net/profile/Juan_Manuel_Carrillo_de_Gea" target="_top"><img src="/images/sm-researchgate-icon.png" width="50" height="50" alt="ResearchGate" title="ResearchGate" /></a>
 <a href="https://sciprofiles.com/profile/jmcarrillodegea" target="_top"><img src="/images/sm-sciprofiles-icon.png" width="50" height="50" alt="Scopus" title="SciProfiles" /></a>
