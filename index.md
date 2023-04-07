@@ -1,7 +1,5 @@
 ## Portfolio
 
-<a href="mailto:jmcdg1@um.es" target="_top"><img src="/images/sm-email-icon.png" width="50" height="50" alt="Email" title="Email" /></a>
-<a href="skype:jmcarrillodegea?chat" target="_top"><img src="/images/sm-skype-icon.png" width="50" height="50" alt="Skype" title="Skype" /></a>
 <a href="http://es.linkedin.com/in/jmcarrillodegea/en" target="_top"><img src="/images/sm-linkedin-icon.png" width="50" height="50" alt="LinkedIn" title="LinkedIn" /></a>
 <a href="https://publons.com/author/437771/juan-manuel-carrillo-de-gea#profile" target="_top"><img src="/images/sm-publons-icon.png" width="50" height="50" alt="Publons" title="Publons" /></a>
 <a href="http://murcia.academia.edu/JuanManuelCarrillodeGea" target="_top"><img src="/images/sm-academia-icon.png" width="50" height="50" alt="Academia.edu" title="Academia.edu" /></a>
