@@ -1,11 +1,20 @@
-title: Personal website - Juan Manuel Carrillo de Gea # your name (or website title) here
+title: Juan Manuel Carrillo de Gea # your name (or website title) here
 logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Associate Professor
   <br><br>
-  Second description 
+  Room 2.07
   <br><br>
-  <a href="http://es.linkedin.com/in/jmcarrillodegea/en">View My LinkedIn Profile</a> 
+  <a href="http://www.um.es/web/dis/" target="_top">Department of Informatics and Systems</a><br>
+  <a href="http://www.um.es/informatica/index.php" target="_top">Faculty of Computer Science</a><br>
+  <a href="http://www.um.es/" target="_top">University of Murcia</a>
+  <br><br>
+  Campus Universitario de Espinardo<br>
+  30100 Murcia (Spain)
+  <br><br>
+  Phone: +34 868 88 46 06<br>
+  Mobile: +34 625 91 85 58<br>
+  Fax: +34 868 88 41 51 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
